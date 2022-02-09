@@ -1,1 +1,1 @@
-Generating random number as lottery numbers 
+Rock Scissor Paper game.
