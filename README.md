@@ -1,2 +1,1 @@
-fdsfjksdhgnkjsdv
-nfkjs
+Generating random number as lottery numbers 
